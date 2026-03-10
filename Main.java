@@ -27,4 +27,5 @@ public class Main {
         Triplets(20);
     }
 }
+System.out.println("hello");
 
