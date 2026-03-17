@@ -199,6 +199,7 @@ public class array {
     }
 
    //  question 16
+   // new line added
 
     public static void question16() {
         Scanner sc = new Scanner(System.in);
